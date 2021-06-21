@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Anurag Bansal a.k.a.@techacker
 - 👀 I’m a firm believer of automation. I love to automate things so that computers do the repetitive things while us humans can focus on better, more interesting things.
-- 🌱 I’m always learning and as Steve Jobs once said, "Stay hungry, stay foolish" - I am hungry for learning new things and always keeping my eyes and ears open for opportunities.
+- 🌱 As Steve Jobs once said, "Stay hungry, stay foolish" - I am hungry for learning new things and always keeping my eyes and ears open for opportunities.
 - 🌱 I'm currently working with a large team to start using a PLM system that I created based on Google Scipts (JavaScript). 
 - 💞️ I’m looking to collaborate with like-minded people and always excited to create something cool.
 - 📫 How to reach me ... 
