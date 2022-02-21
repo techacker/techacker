@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag Bansal a.k.a.@techacker
-- 👀 I’m a firm believer of automation. I love to automate things so that computers do the repetitive things while us humans can focus on better, more interesting things.
+- 👀 I’m a firm believer of automation. Automate monotonous non-value-added activities so that computers can do what they are meant to do while we focus on more valuable tasks.
 - 🌱 As Steve Jobs once said, "Stay hungry, stay foolish" - I am hungry for learning new things and always keeping my eyes and ears open for opportunities.
 - 🌱 I'm currently guiding and helping a team to migrate their Engineering Lifecycle Management (PLM) system from Desktop to cloud using Google Script API and JavaScript. 
 - 💞️ I’m looking to collaborate with like-minded people and always excited to create something cool.
