@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Anurag Bansal a.k.a.@techacker
-- 👀 I’m a firm believer of automation. Let computers do repetitive tasks that they are designed to do so that we can focus on other important activities.
+- 👀 I’m a firm believer of automation, organization efficiency and eliminating non-value-added activities.
 - 🌱 As Steve Jobs once said, "Stay hungry, stay foolish" - Relenless learning and improving everyday is my goal.
 - 💞️ I’m looking to collaborate with like-minded people and always excited to create something cool.
 - 📫 How to reach me ... 
